@@ -1,4 +1,5 @@
 venv/
+.venv
 Plaid_Manager_API/token_exchange/.env
 Plaid_Manager_API/Plaid_Manager_API/__pycache__
 Plaid_Manager_API/token_exchange/__pycache__
